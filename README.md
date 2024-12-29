@@ -7,6 +7,8 @@ Components:
   -Brushless DC Motors
   -L298N motor drivers
 
+  The robot is all designed and 3D printed using Fusion360.
+
 https://github.com/user-attachments/assets/1cf2a461-7820-4fe7-bb5f-6df8c1a79344
 
 https://github.com/user-attachments/assets/8aa4792c-9219-4f72-846b-f976cc4df4cb
